@@ -607,7 +607,7 @@ _______
 SELECT 123+'abc' AS Result;
 ```
 
-- [x] 123abc
+- [ ] 123abc
 - [ ] 123'abc'
 - [ ] '123abc'
-- [ ] error
+- [x] error
